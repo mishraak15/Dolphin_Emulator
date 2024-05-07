@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+## Hosted Link:
+https://dolphinemulator.netlify.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# ScreenShots
+## Home Page
+![Screenshot (53)](https://github.com/mishraak15/Dolphin_Emulator/assets/133697079/8b34c911-503c-4dfd-b3cc-185b2cab7152)
+
+## Features
+![Screenshot (55)](https://github.com/mishraak15/Dolphin_Emulator/assets/133697079/8cc1ea36-b9f1-4519-a422-1131364317ad)
+
+## About page
+![Screenshot (54)](https://github.com/mishraak15/Dolphin_Emulator/assets/133697079/5119fffa-98df-4c60-882e-5e1449e077e1)
 
 ## Available Scripts
 
