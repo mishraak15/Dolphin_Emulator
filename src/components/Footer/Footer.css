@@ -1,0 +1,54 @@
+.Footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2em;
+    flex-direction: column;
+    border-top: 1px solid #e2e2e2;
+    padding: 10px;
+    text-align: center;
+    background-color: #e2e2e2;
+}
+
+.Footer a{
+    text-decoration: none;
+    color: black;
+}
+
+.Footer-top{
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.Footer-top span{
+    font-size: 22px;
+    color: black;
+    font-weight: bold;
+    font-family: "Poppins",sans-serif;
+}
+
+.Footer-top img{
+     width: 50px;
+}
+
+.Footer p{
+    color: #818181;
+}
+
+.Footer-mid{
+    display: flex;
+}
+
+.Footer-mid a{
+    margin: 0 1em ;
+}
+
+.Footer-mid a:hover, .Footer-end a:hover{
+    text-decoration: underline;
+}
+
+.Footer-end, .Footer-end a{
+    color: #818181;
+}

@@ -1,0 +1,18 @@
+.About {
+  margin: 2em;
+}
+
+.About h1 {
+  text-align: center;
+  font-size: 4em;
+}
+
+.About p {
+  margin: 1.5em;
+}
+
+@media screen and (max-width: 700px) {
+  .About {
+    margin: 0.5em;
+  }
+}

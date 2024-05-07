@@ -1,0 +1,27 @@
+.FeatureCard {
+  display: flex;
+  gap: 10px;
+  width: 280px;
+  margin: 10px 0;
+}
+
+.feature-icon-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  width: 50px;
+  background-color: #6366f1;
+  border-radius: 7px;
+}
+
+.fa-bolt {
+  font-size: 1.3em;
+}
+
+.FeatureCard span {
+  font-size: 17px;
+  margin: 3px 0;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+}
